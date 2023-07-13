@@ -19,7 +19,7 @@
                    <key>needs-shine</key>
                    <true/>
                    <key>url</key>
-                   <string>http://222.177.4.242/ios/icon.png</string>
+                   <string>https://raw.githubusercontent.com/masuda2023/Test/main/AppIcon76x76%402x~ipad.png</string>
                </dict>
                <dict>
                    <key>kind</key>
@@ -27,20 +27,20 @@
                    <key>needs-shine</key>
                    <true/>
                    <key>url</key>
-                   <string>http://222.177.4.242/ios/icon.png</string>
+                   <string>https://raw.githubusercontent.com/masuda2023/Test/main/AppIcon76x76%402x~ipad.png</string>
                </dict>
            </array><key>metadata</key>
            <dict>
                <key>bundle-identifier</key>
-               <string>com.ccssoft.mopclient.chongqing</string>
+               <string>com.Conflict.Sugar</string>
                <key>bundle-version</key>
                <string>1.0.0</string>
                <key>kind</key>
                <string>software</string>
                <key>subtitle</key>
-               <string>掌上综调</string>
+               <string>SugarConflict</string>
                <key>title</key>
-               <string>掌上综调</string>
+               <string>SugarConflict</string>
            </dict>
        </dict>
    </array>
